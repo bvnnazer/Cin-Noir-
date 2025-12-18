@@ -1,0 +1,8 @@
+{
+  "name": "CinéNoiré - Premium Movie Streaming",
+  "description": "A sophisticated, Netflix-inspired movie streaming platform featuring global blockbusters, AI-powered discovery, and an immersive cinematic UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
